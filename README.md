@@ -9,12 +9,14 @@ Numeric Sequence Calculator
 6. Run the application (F5 or Ctrl +F5 to run without debuging)
 7. Enter a whole number in to the text box (next to label "Enter an integer")  and press enter or hit the Show button. It must be 1 or greater than 1 in the text box.
 
-Unit Tests
+<b>Unit Tests</b>
+
 1. Select Unit Test project  "NumericSequence.Tests".
 2. Open "HomeControllerTest.cs". There are test methods for each function
 3. Right click on a function name and select "Run Test" (Ctrl + R+T). Function "GetCustomisedNumbers" writes output in to the console. Click on the "Output" link in the Test Explorer window.
 
-UI Test
+<b>UI Test </b>
+
 1. Select "CodedUITestNumericSequence" project
 2. "CodedUITestMethod1" method in "ManualCodedUITest.cs" is written manually. Run the test by right clicking  and selecting "Run Test"
 3. First run the web site using Ctrl + F5. Leave the browser window open.
